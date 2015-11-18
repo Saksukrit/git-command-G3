@@ -1,0 +1,1 @@
+git init : Assign the folder is used to store data.
