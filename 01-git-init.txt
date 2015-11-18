@@ -5,6 +5,4 @@
 ﻿
 git init คือ แสดงความต้องการที่จะใช้ Folder นี้ใช้ได้ครั้งเดียวต่อ Folder
 
-
-
-
+git init : Use just only once

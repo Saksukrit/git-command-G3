@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 <<<<<<< HEAD
 =======
@@ -17,3 +18,9 @@ ADD file in to index
 git ADD เป็นการบอกให้ git รู้จัก ต้องใช้ ทั้งชีวิต
 
 
+=======
+﻿﻿git add : ADD file in to index
+﻿git add : Add file to index of git
+git add ใช้ต้องชีวิต เป็นการทำความรู้จักไฟล์ใหม่ Add ไฟล์ลงใน index
+git add เป็นการบอกให้ Git รู้จัก และ จำเป็นต้องใช้ตลอดชีวิ
+>>>>>>> 03b189e0b2e0ee29bd2934b0f210f73764067445

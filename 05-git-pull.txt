@@ -1,3 +1,2 @@
-﻿﻿git pull : pull all file from github
-
+﻿﻿﻿git pull : pull all file from github
 
