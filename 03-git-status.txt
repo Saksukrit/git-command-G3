@@ -1,0 +1,4 @@
+﻿ใช้เช็คสถานะ *ใช้ตลอด
+
+git status : Show Detail
+
