@@ -1,3 +1,4 @@
 ﻿﻿git status : show status detail of folder
+git status : Show next step
 
 
