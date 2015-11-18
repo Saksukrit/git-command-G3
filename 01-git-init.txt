@@ -1,6 +1,7 @@
+ï»¿<<<<<<< HEAD
 <<<<<<< HEAD
-git init ¤×Í ãªéÊÃéÒ§ä¿Åì (ãªéä´é¤ÃÑé§à´ÕÂÇ/Folder)
+git init : à¹ƒà¸Šà¹‰à¸ªà¸£à¹‰à¸²à¸‡à¹„à¸Ÿà¸¥à¹Œ (à¹ƒà¸Šà¹‰à¹„à¸”à¹‰à¸„à¸£à¸±à¹‰à¸‡à¹€à¸”à¸µà¸¢à¸§/Folder)
 =======
 git init : Assign the folder is used to store data.
         : Used only onec
->>>>>>> af5536c4b1d1ebb0c4a79dc717d58a0405be05a7
+git init : Assign the folder is used to store data.
