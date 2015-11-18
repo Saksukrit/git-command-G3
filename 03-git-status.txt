@@ -1,6 +1,5 @@
-﻿ใช้เช็คสถานะ *ใช้ตลอด
+﻿﻿git status : show status detail of folder
 
-git status : Show Detail
 
 git status : ใช้เช็คสถานะปัจจุบันว่ามีอะไรเกิดขึ้นหรือมีการเปลี่ยนแปลงอะไรบ้าง และแนะนำให้ด้วยว่าจะต้องทำอะไร
 

@@ -1,6 +1,27 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 git add คือ ช่วยเพิ่มไฟล์เข้าไปในgit กล่าวคือ ถ้าจะให้gitรู้จักไฟล์ที่เปลี่ยนแปลงหรือเกิดขึ้นใหม่ ให้ใช้ ' git add ชื่อไฟล์ ' และพยายามอย่างใช้ ' git add . ' เพราเป็นการเพิ่มทุอย่างลงมาหมดพร้อมกัน
 =======
 git add 
 ADD file in to index
 
+=======
+﻿git add 
+ADD file in to index
+=======
+﻿
+﻿git add : Add file to index of git
+
+
+
+
+git add ใช้ต้องชีวิต เป็นการทำความรู้จักไฟล์ใหม่ Add ไฟล์ลงใน index
+
+git add เป็นการบอกให้ Git รู้จัก และ จำเป็นต้องใช้ตลอดชีวิต
+
+git add 
+ADD file in to index
+
+
+>>>>>>> 143dee8ffd6b62fe8e82cd38b6aaf0064481bf2d
+>>>>>>> 34f00c0a0c52a4ffd8bd2222570acada355ac802
