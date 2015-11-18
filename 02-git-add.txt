@@ -1,1 +1,2 @@
-git add ใช้ต้องชีวิต เป็นการทำความรู้จักไฟล์ใหม่ Add ไฟล์ลงใน index
+git add 
+ADD file in to index

@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-คำสั่ง git init ทำให้ folder เป็น master *ใช้ครั้งเดียว
-=======
+﻿คำสั่ง git init ทำให้ folder เป็น master *ใช้ครั้งเดียว
+
 git init : Assign the folder is used to store data.
->>>>>>> 302aa7a5c7b4edf1340dcc872b5a7a685c593ff9
+
+git init : Assign the folder is used to store data.
