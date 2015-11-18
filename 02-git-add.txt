@@ -1,4 +1,14 @@
+﻿
 ﻿git add : Add file to index of git
 
+
+
+
+git add ใช้ต้องชีวิต เป็นการทำความรู้จักไฟล์ใหม่ Add ไฟล์ลงใน index
+
+git add เป็นการบอกให้ Git รู้จัก และ จำเป็นต้องใช้ตลอดชีวิต
+
+git add 
+ADD file in to index
 
 
