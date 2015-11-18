@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+﻿
+push use to uplode file to github.com
+
+﻿﻿git push : push use to uplode file to github
+=======
 ﻿﻿﻿git push : push use to uplode file to github
 
 
@@ -13,3 +19,4 @@
 
 *** GIT PUSH ***
 
+>>>>>>> f1ae12cd60b3dee7ca18603a726eab2d2f6f102a
