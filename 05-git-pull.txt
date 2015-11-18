@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ﻿
+=======
+﻿﻿git pull : pull all file from github
+
+
+>>>>>>> 143dee8ffd6b62fe8e82cd38b6aaf0064481bf2d

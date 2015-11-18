@@ -1,4 +1,3 @@
-﻿ใช้เช็คสถานะ *ใช้ตลอด
+﻿﻿git status : show status detail of folder
 
-git status : Show Detail
 
