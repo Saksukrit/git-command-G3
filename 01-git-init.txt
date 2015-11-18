@@ -2,4 +2,4 @@
 
 git init : Assign the folder is used to store data.
 
-git init : Assign the folder is used to store data.
+git init : Use just only once
