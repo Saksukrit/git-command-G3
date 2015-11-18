@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ﻿git commit : add comment edit file and add file to box of git
+=======
+﻿﻿git commit : add comment edit file and add file to box of git
+
+>>>>>>> f1ae12cd60b3dee7ca18603a726eab2d2f6f102a
