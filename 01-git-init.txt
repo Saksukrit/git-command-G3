@@ -1,0 +1,1 @@
+คำสั่ง git init ทำให้ folder เป็น master *ใช้ครั้งเดียว
