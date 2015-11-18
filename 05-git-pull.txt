@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+﻿
+download file from github
+
+﻿﻿git pull : pull all file from github
+
+=======
 ﻿﻿﻿git pull : pull all file from github
 
+>>>>>>> f1ae12cd60b3dee7ca18603a726eab2d2f6f102a
