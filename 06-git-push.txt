@@ -1,1 +1,3 @@
-﻿git push : push all file to github
+﻿﻿git push : push use to uplode file to github
+
+

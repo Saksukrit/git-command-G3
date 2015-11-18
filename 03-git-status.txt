@@ -1,1 +1,3 @@
-﻿git status : show status of folder
+﻿﻿git status : show status detail of folder
+
+
